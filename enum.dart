@@ -13,8 +13,6 @@ enum Pet {
 
 void main() {
   final yernarPet = Pet.bird;
-  final shattyk = Pet.cat;
 
   yernarPet.printPetName();
-  shattyk.printPetName();
 }
